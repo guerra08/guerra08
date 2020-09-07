@@ -10,6 +10,6 @@
 
 <hr></hr>
 
-### <samp>Where can you find me</samp>
+### <samp>Where can you find more about me?</samp>
 
-...
+<samp>👨‍💻 [My personal page](https://guerra08.github.io/)</samp>
