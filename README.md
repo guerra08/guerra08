@@ -12,7 +12,9 @@
 
 ### <samp>Where can you find more about me?</samp>
 
-<samp>👨‍💻 [My personal page](https://guerra08.github.io/)</samp>
+<samp>[My personal page](https://guerra08.github.io/)</samp>
+
+<samp>[Exercism profile](https://exercism.io/profiles/guerra08)</samp>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=guerra08&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/guerra08)
 [![Languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=guerra08&langs_count=8&count_private=true&layout=compact&theme=gruvbox)](https://github.com/guerra08)
