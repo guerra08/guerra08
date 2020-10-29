@@ -16,7 +16,7 @@
 
 <samp>[Exercism profile](https://exercism.io/profiles/guerra08)</samp>
 
-<samp>[Codewars profile](https://www.codewars.com/users/guerra08)</samp>
+<a target="_blank" href="https://www.codewars.com/users/guerra08"><img src="https://www.codewars.com/users/guerra08/badges/large" alt="Codewars"/></a>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=guerra08&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/guerra08)
 [![Languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=guerra08&langs_count=8&count_private=true&layout=compact&theme=gruvbox)](https://github.com/guerra08)
