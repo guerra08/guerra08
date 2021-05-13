@@ -1,16 +1,16 @@
 ## <samp>Howdy 👋, I'm Bruno Guerra!</samp>
 
-<samp>Software Engineering student at PUCRS, 6th semester.</samp>
+<samp>Dev @ [Eldorado](https://www.eldorado.org.br/)</samp>
+
+<samp>Software Engineering student at PUCRS, 7th semester.</samp>
 
 <samp>New tech is like christmas at any time 🎅</samp>
-
-<samp>Currently working with Java / Spring Boot and React 😊</samp>
 
 <samp>Experience in backend development. Knowledge of PHP, JS (and Node), Java, C# and frontend technologies (HTML, CSS and React)</samp>
 
 <samp>Looking into Kotlin, Flutter and some cool sutff</samp>
 
-<samp>Always looking for more stuff to study 👨‍🎓</samp>
+<samp>Always working with new stuff 👨‍🎓</samp>
 
 <hr></hr>
 
