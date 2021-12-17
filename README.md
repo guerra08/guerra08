@@ -2,15 +2,15 @@
 
 <samp>Dev @ [Eldorado](https://www.eldorado.org.br/)</samp>
 
-<samp>Software Engineering student at PUCRS, 7th semester.</samp>
+<samp>Software Engineer.</samp>
 
 <samp>New tech is like christmas at any time 🎅</samp>
 
-<samp>Experience in backend development. Knowledge of PHP, JS (and Node), Java, C# and frontend technologies (HTML, CSS and React)</samp>
+<samp>Experience in backend development. Knowledge with PHP, JS / Node, Java, C# and frontend technologies</samp>
 
-<samp>Looking into Kotlin, Flutter and some cool sutff</samp>
+<samp>Looking into Kotlin, Flutter and other cool sutff</samp>
 
-<samp>Always working with new stuff 👨‍🎓</samp>
+<samp>Always learning!👨‍🎓</samp>
 
 <hr></hr>
 
