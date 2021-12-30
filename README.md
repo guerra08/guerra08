@@ -8,7 +8,7 @@
 
 <samp>Experience in backend development. Knowledge with PHP, JS / Node, Java, C# and frontend technologies</samp>
 
-<samp>Looking into Kotlin, Flutter and other cool sutff</samp>
+<samp>Looking into Kotlin, Swift and other cool sutff</samp>
 
 <samp>Always learning!👨‍🎓</samp>
 
