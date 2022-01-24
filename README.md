@@ -16,8 +16,6 @@
 
 ### <samp>Where can you find more about me?</samp>
 
-<samp>[My personal page](https://guerra08.github.io/)</samp>
-
 <samp>[Exercism profile](https://exercism.io/profiles/guerra08)</samp>
 
 <a target="_blank" href="https://www.codewars.com/users/guerra08"><img src="https://www.codewars.com/users/guerra08/badges/large" alt="Codewars"/></a>
