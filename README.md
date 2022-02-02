@@ -6,9 +6,9 @@
 
 <samp>New tech is like christmas at any time 🎅</samp>
 
-<samp>Experience in backend development. Knowledge with PHP, JS / Node, Java, C# and frontend technologies</samp>
+<samp>Knowledge with PHP, JS / Node, Java, Kotlin and frontend technologies</samp>
 
-<samp>Looking into Kotlin, Swift and other cool sutff</samp>
+<samp>Looking into Go, Rust, Dart/Flutter and other cool sutff</samp>
 
 <samp>Always learning!👨‍🎓</samp>
 
