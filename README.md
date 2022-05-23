@@ -8,10 +8,6 @@
 
 <samp>CV: https://read.cv/guerra08</samp>
 
-<samp>Knowledge with PHP, JS / Node, Java, Kotlin and frontend technologies</samp>
-
-<samp>Looking into Go, Rust, Dart/Flutter and other cool sutff</samp>
-
 <samp>Always learning!👨‍🎓</samp>
 
 <hr></hr>
