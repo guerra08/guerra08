@@ -2,19 +2,16 @@
 
 <samp>Dev @ [Eldorado](https://www.eldorado.org.br/)</samp>
 
-<samp>Software Engineer.</samp>
+<samp>Software Engineer. Full stack developer with a focus on backend development.</samp>
 
 <samp>New tech is like christmas at any time 🎅</samp>
 
-<samp>CV: https://read.cv/guerra08</samp>
+<samp>You can find more about me here:</samp>
 
-<samp>Always learning!👨‍🎓</samp>
+- <samp>CV: https://read.cv/guerra08</samp>
+- <samp>LinkedIn: https://www.linkedin.com/in/brunogavaguerra/</samp>
 
 <hr></hr>
-
-### <samp>Where can you find more about me?</samp>
-
-<samp>[Exercism profile](https://exercism.io/profiles/guerra08)</samp>
 
 <a target="_blank" href="https://www.codewars.com/users/guerra08"><img src="https://www.codewars.com/users/guerra08/badges/large" alt="Codewars"/></a>
 
